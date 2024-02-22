@@ -2,8 +2,8 @@
 // @Description
 // @Author
 // @Update
-package Encode
+package Encoder
 
 func Base64(data interface{}) {
-	Base64.Base64Encode(data)
+	Base64.Base64Encode(123)
 }

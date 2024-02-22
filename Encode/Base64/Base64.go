@@ -2,7 +2,7 @@
 // @Description
 // @Author
 // @Update
-package Base64
+package Base64Encoder
 
 import (
 	"encoding/base64"
