@@ -1,7 +1,3 @@
-// @Title
-// @Description
-// @Author
-// @Update
 package Base64Encoder
 
 import (
