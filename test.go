@@ -1,9 +1,9 @@
 package main
 
 import (
-	"moonlight/Encode"
+	"moonlight/Decode"
 )
 
 func main() {
-	Encoder.Base32(123)
+	Decoder.Base32("GEZDGCQ=")
 }
