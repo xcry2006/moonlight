@@ -1,10 +1,9 @@
 package main
 
 import (
-	"moonlight/Decode"
+	"moonlight/Encode"
 )
 
 func main() {
-	Decoder.Base64("MTIzCg==")
-
+	Encoder.Base32(123)
 }
