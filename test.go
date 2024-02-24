@@ -1,9 +1,9 @@
 package main
 
 import (
-	"moonlight/Encode"
+	"moonlight/Decode"
 )
 
 func main() {
-	Encoder.Hex(123)
+	Decoder.Hex("313233")
 }
